@@ -1,7 +1,4 @@
 '''
-Traductores de Lenguaje II - Practica 1
-Alumno: Emmanuel Corpus Ávila
-
 ------------------------------------
 Detalles:
 |
